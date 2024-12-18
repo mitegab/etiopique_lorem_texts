@@ -1,1 +1,1 @@
-# turbo-garbanzo
+# etiopique_lorem_texts
